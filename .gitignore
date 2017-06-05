@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Script specific
+*.py-oauth2.json
+client_secret.json
+*.backup
+userinfo.ini
+client
